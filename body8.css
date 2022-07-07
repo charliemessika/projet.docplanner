@@ -1,0 +1,19 @@
+.pied{
+    display:flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#first{
+color:grey
+}
+
+#look{
+    
+    color:rgba(0, 0, 255, 0.562); ;
+}
+
+#suite{
+    display:flex;
+    justify-content: center;
+    color: grey;
+}
